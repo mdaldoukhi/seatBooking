@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "seatBooking",
+    "slug": "seatBooking",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
