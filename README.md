@@ -12,10 +12,10 @@ To get started with this project, follow these steps:
    git clone https://github.com/mdaldoukhi/seatBooking.git
 
 2. Install the required dependencies:
- ```bash
+    ```bash
    cd seatBooking
    yarn install
-```
+   ```
 
 4. Run the application on a simulator or device:
    ```bash
