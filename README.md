@@ -11,15 +11,18 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/mdaldoukhi/seatBooking.git
 
-
 2. Install the required dependencies:
+ ```bash
    cd seatBooking
    yarn install
+```
 
-3. Run the application on a simulator or device:
+4. Run the application on a simulator or device:
+   ```bash
    yarn ios
 
 ## How to Use
+
 1. Pinch two fingers on the screen to zoom in/out the red square.
 2. Drag the red square to move it around the screen.
 
