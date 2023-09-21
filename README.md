@@ -23,6 +23,7 @@ To get started with this project, follow these steps:
    
    ```bash
    yarn ios
+   yarn android
    ```
 
 ## How to Use
