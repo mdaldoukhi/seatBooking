@@ -10,28 +10,31 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/mdaldoukhi/seatBooking.git
-
+   ```
+   
 2. Install the required dependencies:
+   
     ```bash
    cd seatBooking
    yarn install
    ```
 
 4. Run the application on a simulator or device:
+   
    ```bash
    yarn ios
+   ```
 
 ## How to Use
 
 1. Pinch two fingers on the screen to zoom in/out the red square.
+
 2. Drag the red square to move it around the screen.
 
 ## Technologies Used
 
-React Native
+1. React Native
 
-React Native Gesture Handler
+2. React Native Gesture Handler
 
-React native Reanimated
-
-
+3. React native Reanimated
